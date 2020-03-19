@@ -74,4 +74,3 @@ class Map
         echo "</table>";
     }
 }
-//pizza is anders als je een pet op hebt
